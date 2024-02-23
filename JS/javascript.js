@@ -1,3 +1,4 @@
+//Objetos
 let obj1={
     propobj1:"Valor 1",
 };
@@ -11,6 +12,7 @@ let obj3={
 };
 console.table(obj3);
 
+//Variables
 var nombre="Pablo";
 var edad=20;
 var estatura=1.78;
@@ -34,8 +36,8 @@ let student={
     },
 };
 
-// delete student.age;
-// let nombre=student.name;
+//delete student.age;
+//let nombre=student.name;
 //let {name:nombre,age:edad,}=student;
 //let {name1, ...student2}=student;
 
